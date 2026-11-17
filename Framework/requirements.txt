@@ -1,0 +1,11 @@
+numpy>=1.24
+psutil>=5.9
+torch>=2.1
+tqdm>=4.65
+triton>=2.1
+
+# Path aggregation (install a build compatible with the local CryptoMiniSat).
+pycryptosat>=5.11
+
+# Optional in-process cardinality/SAT tools used by OCP.
+python-sat>=1.8.dev13

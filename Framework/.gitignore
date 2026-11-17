@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+build/
+runs/
+results/
+*.csv
+*.jsonl
+*.jsonl.gz
+*.log
